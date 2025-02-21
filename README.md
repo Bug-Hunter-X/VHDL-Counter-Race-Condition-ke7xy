@@ -1,0 +1,1 @@
+This repository demonstrates a race condition in a simple VHDL counter and provides a solution. The original code has a potential issue where resetting the counter while a clock edge occurs leads to unpredictable output.  The solution uses a synchronous reset and improves clarity.
